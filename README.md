@@ -1,0 +1,2 @@
+# WIRELESS-TEMPERATURE-MON--ITORING-AND-CONTROL-USING-BLUETOOTH
+Project uses a DS18B20 temperature sensor  to detect temperature changes. When a pre- set threshold is reached, a buzzer alerts and  heating or cooling systems can be activated.  Users can set temperature thresholds for var- ious areas and remotely monitor data via a  mobile app connected through Bluetooth, en- hancing safety and risk prevention.
